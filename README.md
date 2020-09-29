@@ -1,5 +1,5 @@
 ### Welcome 😄
-#### 🔭 I’m currently working on JS, React and MongoDB 
+#### 🔭 I’m currently working on learning JS, React and MongoDB 
 
 
 <!--
