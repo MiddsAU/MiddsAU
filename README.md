@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 😄
+#### 🔭 I’m currently working on JS, React and MongoDB 
+
 
 <!--
 **MiddsAU/MiddsAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
