@@ -1,5 +1,5 @@
 ### 👋 Hello!
-#### 🔭 I’m learning React & Gatsby
+#### 🔭 I’m learning React, Gatsby & Sass
 #### 📫 https://middsau.github.io
 
 <!--
