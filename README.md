@@ -1,5 +1,5 @@
 ### 👋 Hello!
-#### 🔭 I’m learning React, Next & Sass
+#### 🔭 I’m learning Vue, Nuxt, Sass and more vanilla JS!
 #### 📫 https://middsau.github.io
 
 <!--
