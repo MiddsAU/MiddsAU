@@ -1,5 +1,5 @@
 ### 👋 Hello!
-#### 🔭 I’m learning Vue, Nuxt, Sass and more vanilla JS!
+#### 🔭 I’m learning the MEVN stack with Sass and more vanilla Javascript
 #### 📫 https://middsau.github.io
 
 <!--
